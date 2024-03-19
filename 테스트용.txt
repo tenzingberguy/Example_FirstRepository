@@ -1,3 +1,11 @@
 
 
 추가 텍스트 작성후 저장을 해봅니다.
+
+오늘 집에 가면 
+
+1번. github 설치
+
+2번. Example_1stRepository
+
+3번 집에서 내용 수정 및 commit
